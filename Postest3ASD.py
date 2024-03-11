@@ -1,3 +1,6 @@
+#Nurul Asmita(2309116073)
+#Program Pendataan Toko Olahraga
+
 class Node:
     def __init__(self, toko_olahraga):
         self.data = toko_olahraga
